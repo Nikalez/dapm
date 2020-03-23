@@ -1,0 +1,4 @@
+#Fri Apr 05 17:32:56 EEST 2019
+base.0=C\:\\Users\\Zavoianu_PC\\Documents\\DAPM\\Laboratoires\\Laboratoire 6\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

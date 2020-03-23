@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab6_DAPM</string>
+    <string name="editText">Input text here</string>
+    <string name="textView">After saving, on subsequent launch go to Second Activity without saving. You will see the saved data.</string>
+    <string name="but1">SAVE</string>
+    <string name="but2">GO TO SECOND ACTIVITY</string>
+    <string name="textView2">UN TEXT</string>
+</resources>
