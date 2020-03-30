@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Apr 10 13:34:21 EEST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Zavoianu_PC\\Documents\\DAPM\\Laboratoires\\Laboratoire 7 - Partie 2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1

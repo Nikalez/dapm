@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratoire 7</string>
+    <string name="fragment1">Fragment 1</string>
+    <string name="fragment2">Fragment 2</string>
+    <string name="text1">This is Fragment Nr.1</string>
+    <string name="text2">This is Fragment Nr.2</string>
+</resources>
